@@ -1,0 +1,31 @@
+my name is sudha
+SUPPORT VECTOR MACHINE LEARNING ALGORITHM
+
+4.	Algorithm Implementation:
+INTRODUCTION: 
+Support vector machines (SVM) are a pattern classification technique proposed by Vapnik et al. (Boser et al., 1992). SVM minimizes an upper bound on the generalization error through maximizing the margin between a hyperplane separating the data classes, and the data (Amari and Wu, 1999).  Support vector machines (SVMs) have been fairly recently introduced in the field of ecology. The most common use is in pattern recognition and classification problems in remote sensing.
+DEFINITION: 
+In machine learning, support-vector machines (SVMs, also support-vector networks[are supervised learning models with associated learning algorithms that analyze data used For classification and regression analysis. Given a set of training examples, each marked as belonging to one or the other of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a    non- probabilistic binary linear classifier.
+The support vector machine is classified on the basis of number of classes used for the training structure of that class. The following are the extension of SVM.
+Multiclass SVM
+Multiclass SVM aims to assign labels to instances by using support vector machines, where the labels are drawn from a finite set of several elements.
+Transductive support vector machines
+Transductive support vector machines extend SVMs in that they could also treat partially labeled data in semi-supervised learning by following the principles of transduction.
+Structured SVM
+SVMs have been generalized to structured SVMs, where the label space is structured and of possibly infinite size. This desired hyper plane, which maximizes the margin, also bisects the lines between closest points on convex hull of the two datasets.
+There are many types of analysis ways in which we can solve the problem using this algorithm.
+
+Advantages of SVM Classifier:
+•	SVMs are effective when the number of features is quite large.
+•	It works effectively even if the numbers of features are greater than the number of samples.
+
+Disadvantages of SVM Classifier:
+•	With a greater number of samples, it starts giving poor performances.
+•	SVMs have good generalization performance but they can be extremely slow in the test phase.
+•	SVMs have high algorithmic complexity and extensive memory requirements due to the use of quadratic programming.
+
+SOME APPLICATIONS:
+1.	Facial expression classification: SVMs can be used to classify facial expressions. It uses statistical models of shape and SVMs.
+2.	Speech recognition: SVMs are used to accept keywords and reject non-keywords them and build a model to recognize speech.
+3.	Handwritten digit recognition: Support vector classifiers can be applied to the recognition of isolated handwritten digits optically scanned.
+4.	Text Categorization: In information retrieval and then categorization of data using labels can be done by SVM.
